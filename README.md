@@ -25,3 +25,4 @@ A fun and interactive Simon memory game built using HTML , CSS and JavaScript.
 
 ## Live Demo
 [Play Simon Game]
+(https://hanisha-bhati.github.io/simon-game/)
